@@ -35,7 +35,7 @@ targetCompatibility = 1.11
 
 javafx {
     version = "11.0.2"
-    modules = [ 'javafx.controls' ]
+    modules = [ 'javafx.controls', 'javafx.media' ]
 }
 
 compileJava.options.encoding = 'UTF-8'
