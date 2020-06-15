@@ -30,8 +30,8 @@ apply plugin: 'edu.sc.seis.launch4j'
 apply plugin: 'de.fuerstenau.buildconfig'
 apply plugin: 'org.openjfx.javafxplugin'
 
-sourceCompatibility = 1.8
-targetCompatibility = 1.8
+sourceCompatibility = 1.11
+targetCompatibility = 1.11
 
 javafx {
     version = "11.0.2"
